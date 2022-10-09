@@ -1,0 +1,19 @@
+{
+  "ramble_on": {
+    "sounds": [
+      {
+        "name": "music:ramble_on",
+        "stream": true
+      }
+    ]
+  },
+
+  "real_gone": {
+    "sounds": [
+      {
+        "name": "music:real_gone",
+        "stream": true
+      }
+    ]
+  }
+}
