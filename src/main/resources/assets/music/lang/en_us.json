@@ -10,12 +10,15 @@
   "item.music.owner_of_a_lonely_heart_disc": "§6Owner of a Lonely Heart",
   "item.music.owner_of_a_lonely_heart_disc.desc": "Yes - Owner of a Lonely Heart",
   
-  "item.music.ovni_disc": "§6JuL - On m'appelle l'ovni",
+  "item.music.ovni_disc": "§6On m'appelle l'ovni",
   "item.music.ovni_disc.desc": "JuL - On m'appelle l'ovni",
 
-  "item.music.about_love_disc": "§6Van Halen - Ain't talking about Love",
+  "item.music.about_love_disc": "§6Ain't talking about Love",
   "item.music.about_love_disc.desc": "Van Halen - Ain't talking about Love",
 
-  "item.music.rick_roll_disc": "§6Rick Astley - Never Gonna Give You Up",
-  "item.music.rick_roll_disc.desc": "Rick Astley - Never Gonna Give You Up"
+  "item.music.rick_roll_disc": "§6Never Gonna Give You Up",
+  "item.music.rick_roll_disc.desc": "Rick Astley - Never Gonna Give You Up",
+
+  "item.music.voodoo_child_disc": "§6Voodoo Child",
+  "item.music.voodoo_child_disc.desc": "Jimi Hendrix - Voodoo Child"
 }

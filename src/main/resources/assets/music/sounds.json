@@ -7,7 +7,6 @@
       }
     ]
   },
-
   "real_gone": {
     "sounds": [
       {
@@ -16,16 +15,14 @@
       }
     ]
   },
-
-  "owner_of_a_lenely_heart": {
+  "owner_of_a_lonely_heart": {
     "sounds": [
       {
-        "name": "music:owner_of_a_lenely_heart",
+        "name": "music:owner_of_a_lonely_heart",
         "stream": true
       }
     ]
   },
-
   "ovni": {
     "sounds": [
       {
@@ -34,7 +31,6 @@
       }
     ]
   },
-
   "about_love": {
     "sounds": [
       {
@@ -43,7 +39,6 @@
       }
     ]
   },
-
   "rick_roll": {
     "sounds": [
       {
@@ -51,9 +46,13 @@
         "stream": true
       }
     ]
+  },
+  "voodoo_child": {
+    "sounds": [
+      {
+        "name": "music:voodoo_child",
+        "stream": true
+      }
+    ]
   }
-
-
-
-
 }
